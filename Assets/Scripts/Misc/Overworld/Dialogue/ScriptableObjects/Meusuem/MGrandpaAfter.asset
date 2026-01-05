@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7e1b7ea24a18f44b98dc730a846e04, type: 3}
+  m_Name: MGrandpaAfter
+  m_EditorClassIdentifier: 
+  name: Grandpa
+  profile: {fileID: 1303667703, guid: c4cf3593183548642ba3e10ab40ef461, type: 3}
+  otherName: 
+  otherProfile: {fileID: 0}
+  sentences:
+  - Tremendous work, sonny!
+  - "\u2026"
+  - "Seems like it\u2019s come time for you to know the truth."
+  - When I was a little boy, just like you, me and my friend, Mortaldi, were the
+    best composing duo in all the world.
+  - You know what a composer is right? They write music. You were named after a composer,
+    Mendelsonny.
+  - But there came a dark time when Mortaldi had lost his ways.
+  - I had decided to settle down and become a family man, while Mortaldi went down
+    a dark path.
+  - "He believed that only the people who have spent their lives studying it should
+    be able to listen and appreciate it\r. He decided to take all music from the
+    world, locking it away in those paintings so only those with musical expertise
+    could access it."
+  coord: {x: 54, y: -23, z: 0}
+  NotifyReciever: {fileID: 0}
+  raduis: 0
+  pathInst: {fileID: 0}

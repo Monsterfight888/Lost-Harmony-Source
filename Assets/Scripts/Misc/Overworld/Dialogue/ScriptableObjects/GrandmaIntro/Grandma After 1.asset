@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7e1b7ea24a18f44b98dc730a846e04, type: 3}
+  m_Name: Grandma After 1
+  m_EditorClassIdentifier: 
+  name: Elder Becky
+  profile: {fileID: -42782806, guid: 2af9128bd7072284bb1b5899eecb55a0, type: 3}
+  otherName: 
+  otherProfile: {fileID: 0}
+  sentences:
+  - My Scrabbles! Thank you for rescuing her!
+  - "Do you happen to remember Father Antonio from the Cathedral? He used to visit
+    all the time. He just called me and told me that he\u2019s been having the same
+    sort of issues with his paintings as I have. "
+  - "Why don\u2019t you go down to the subway below my house and give him a visit
+    out in the country side? "
+  coord: {x: 3, y: 14, z: 0}
+  NotifyReciever: {fileID: 0}
+  raduis: 0
+  pathInst: {fileID: 0}

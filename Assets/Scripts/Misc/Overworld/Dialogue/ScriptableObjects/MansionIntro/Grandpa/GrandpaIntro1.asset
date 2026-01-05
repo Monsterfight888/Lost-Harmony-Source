@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7e1b7ea24a18f44b98dc730a846e04, type: 3}
+  m_Name: GrandpaIntro1
+  m_EditorClassIdentifier: 
+  name: Mendelsonny
+  profile: {fileID: 341112419, guid: ee050aaed7b10c7418e54dab32fbc4ce, type: 3}
+  otherName: Grandpa
+  otherProfile: {fileID: 1303667703, guid: c4cf3593183548642ba3e10ab40ef461, type: 3}
+  sentences:
+  - Grandpa? Whatcha doing here?
+  - Oh ho ho, looks like you've found me. I'm just fixin this old hunk of junk
+  - Ooooh! What'sit called?
+  - It's a Record Player.
+  - Record Player? What's a Record Player?
+  - It's a device that plays music when you put on a CD.
+  - Music? CD? What are all these new terms? Explain them to me Grandpa!
+  - Oh ho ho, calm down Mendelsonny. Lemme just show you instead.
+  coord: {x: -27, y: 10, z: 0}
+  NotifyReciever: {fileID: 0}
+  raduis: 5
+  pathInst: {fileID: 0}

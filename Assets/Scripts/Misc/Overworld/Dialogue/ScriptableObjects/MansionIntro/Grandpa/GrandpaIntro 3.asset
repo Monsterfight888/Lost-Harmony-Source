@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7e1b7ea24a18f44b98dc730a846e04, type: 3}
+  m_Name: GrandpaIntro 3
+  m_EditorClassIdentifier: 
+  name: Mendelsonny
+  profile: {fileID: 341112419, guid: ee050aaed7b10c7418e54dab32fbc4ce, type: 3}
+  otherName: Grandpa
+  otherProfile: {fileID: 1303667703, guid: c4cf3593183548642ba3e10ab40ef461, type: 3}
+  sentences:
+  - Grandpa! What Happened? Where did the music go!
+  - This CD is old, and it doesn't work anymore. We need to find new ones to play
+    more music.
+  - How do we find new CDs?
+  - "The CDs have been locked away in special paintings. To get through the paintings
+    and get CDs, you will have to learn various elements of music theory. I've given
+    you a magical journal to aid you \nthrough each painting. You can \naccess it
+    by pressing F."
+  - ALRIGHT, LET'S GO GRANDPA!
+  - "Oh ho ho, you seem to have fallen in love with music, haven't you? Why don\u2019t
+    you follow me?"
+  coord: {x: -27, y: 10, z: 0}
+  NotifyReciever: {fileID: 0}
+  raduis: 0
+  pathInst: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7e1b7ea24a18f44b98dc730a846e04, type: 3}
+  m_Name: GrandpaMiddleTLDR
+  m_EditorClassIdentifier: 
+  name: Grandpa
+  profile: {fileID: 1303667703, guid: c4cf3593183548642ba3e10ab40ef461, type: 3}
+  otherName: 
+  otherProfile: {fileID: 0}
+  sentences:
+  - 'It seems there was only one-half of the CD in there. '
+  - "Why don\u2019t you try this next painting for the other half?"
+  coord: {x: -34, y: 11, z: 0}
+  NotifyReciever: {fileID: 0}
+  raduis: 0
+  pathInst: {fileID: 0}

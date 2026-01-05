@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f173a20cb94ccba43938ed513aeb09e1, type: 3}
+  m_Name: Half
+  m_EditorClassIdentifier: 
+  length: 2
+  sprite: {fileID: 21300000, guid: abd33aea2953dec4d8c6364f2bb5e32f, type: 3}
+  sound: {fileID: 8300000, guid: 627d9efb8d8f84a4cab4202ce65e3528, type: 3}

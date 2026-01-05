@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ImportedMinigames/ScaleStairsMinigames/Scenes/Opening/OpeningCutscene.unity
+    guid: 079d54fa1847b584590cdac48ba04ee2
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: f11df7ddae081cb4cbe8652736af1466
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/ImportedMinigames/TreeMinigame/Scenes/TreeLevel1.unity
+    guid: 3540aeb8a7a6777429b84d5eae866a0c
+  - enabled: 0
+    path: Assets/ImportedMinigames/ScaleStairsMinigames/Scenes/ScaleStair.unity
+    guid: 996001a43f6dbc341bdd7461123473db
+  - enabled: 1
+    path: Assets/ImportedMinigames/ScaleStairsMinigames/Scenes/AMajor.unity
+    guid: 8d0402538fa07cd4f8bb933bdf70713b
+  - enabled: 0
+    path: Assets/ImportedMinigames/ScaleStairsMinigames/Scenes/DMinor.unity
+    guid: 45c7a8f55ad4d39459441ad31ff64be5
+  - enabled: 1
+    path: Assets/ImportedMinigames/TreeMinigame/Scenes/TreeLevel2.unity
+    guid: e519a91a07406874495a9cb2fc837fb4
+  - enabled: 1
+    path: Assets/ImportedMinigames/TreeMinigame/Scenes/TreeLevel3.unity
+    guid: f36730fd98650474c9496722fc4b4f95
+  - enabled: 1
+    path: Assets/ImportedMinigames/DragonMinigame/Scenes/DragonMinigame.unity
+    guid: 1fc2b10dc57c6cb46b3caeba026c2272
+  - enabled: 1
+    path: Assets/ImportedMinigames/ScaleStairsMinigames/Scenes/CMajor.unity
+    guid: 71ff20ca2b5418047895e93fbf72ec05
+  - enabled: 1
+    path: Assets/Credits/Credits_scene.unity
+    guid: fbdab3396881a884f9082510f0dc6fac
+  m_configObjects: {}

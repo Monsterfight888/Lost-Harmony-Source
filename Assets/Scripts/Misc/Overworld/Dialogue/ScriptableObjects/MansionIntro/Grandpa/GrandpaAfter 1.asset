@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a7e1b7ea24a18f44b98dc730a846e04, type: 3}
+  m_Name: GrandpaAfter 1
+  m_EditorClassIdentifier: 
+  name: Grandpa
+  profile: {fileID: 1303667703, guid: c4cf3593183548642ba3e10ab40ef461, type: 3}
+  otherName: Mendelsonny
+  otherProfile: {fileID: 341112419, guid: ee050aaed7b10c7418e54dab32fbc4ce, type: 3}
+  sentences:
+  - Congratulations on finding the entire CD!
+  - Uhh.. Grandpa, this  label says it is a record, not a CD.
+  - Ah shucks! I guess I got them mixed up again. Anyway, you can put it into my
+    record player and watch it restore some color to our bleak city.
+  - Where could I find more records?
+  - ' I think Elder Becky has some missing records too. Her house is just to the
+    right of mine, if you''ve forgotten. '
+  coord: {x: -34, y: 11, z: 0}
+  NotifyReciever: {fileID: 0}
+  raduis: 0
+  pathInst: {fileID: 0}
